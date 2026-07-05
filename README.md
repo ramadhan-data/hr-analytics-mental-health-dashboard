@@ -66,8 +66,8 @@ Full analysis and business recommendations: see [RECOMMENDATIONS.md](RECOMMENDAT
 
 ## SQL Analysis Example (CTE + Window Function)
 
-![SQL Query](image/sql_code.png)
-![Query Result](image/sql_result.png)
+![SQL Query](image/SQL_code.png)
+![Query Result](image/SQL_result.png)
 
 ## Data Source
 
