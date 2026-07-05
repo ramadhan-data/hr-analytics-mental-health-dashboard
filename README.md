@@ -4,7 +4,7 @@ An end-to-end data analysis project examining burnout, work-life balance, and re
 across 10,000 employees from 20 countries and 14 industries (2020-2024). Built using Python, 
 SQL, and Power BI to simulate a real-world HR analytics consulting engagement.
 
-![Dashboard Overview](images/DASHBOARD.png)
+![Dashboard Overview](image/DASHBOARD.png)
 
 ## Project Overview
 
@@ -58,16 +58,16 @@ Full analysis and business recommendations: see [RECOMMENDATIONS.md](RECOMMENDAT
 
 ## Supporting Visualizations
 
-![Burnout by Industry](images/chart1_burnout_by_industry.png)
-![Work Hours vs Burnout](images/chart2_workhours_vs_burnout.png)
-![Burnout by Work Model](images/chart3_burnout_by_workmodel.png)
-![Correlation Heatmap](images/chart4_correlation_heatmap.png)
-![EAP Utilization](images/chart5_eap_utilization.png)
+![Burnout by Industry](image/chart1_burnout_by_industry.png)
+![Work Hours vs Burnout](image/chart2_workhours_vs_burnout.png)
+![Burnout by Work Model](image/chart3_burnout_by_workmodel.png)
+![Correlation Heatmap](image/chart4_correlation_heatmap.png)
+![EAP Utilization](image/chart5_eap_utilization.png)
 
 ## SQL Analysis Example (CTE + Window Function)
 
-![SQL Query](images/sql_code.png)
-![Query Result](images/sql_result.png)
+![SQL Query](image/sql_code.png)
+![Query Result](image/sql_result.png)
 
 ## Data Source
 
